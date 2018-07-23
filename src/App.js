@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <a href="http://localhost:5000/auth/google">Entrar com o Google</a>
+        <a href="/auth/google">Entrar com o Google</a>
       </div>
     );
   }
